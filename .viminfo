@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1652033552,,"q!"
 :wq
 |2,0,1651405735,,"wq"
 :wq!
@@ -27,36 +29,76 @@
 # Registers:
 
 # File marks:
-'0  9  0  ~/misc_app_tst/req_mac
-|4,48,9,0,1651405735,"~/misc_app_tst/req_mac"
-'1  11  0  ~/.ssh/authorized_keys
-|4,49,11,0,1649750313,"~/.ssh/authorized_keys"
-'2  14  25  ~/maria/node3.cnf
-|4,50,14,25,1648295666,"~/maria/node3.cnf"
-'3  7  10  ~/maria/node3.cnf
-|4,51,7,10,1648295635,"~/maria/node3.cnf"
-'4  7  10  ~/maria/node3.cnf
-|4,52,7,10,1648295635,"~/maria/node3.cnf"
-'5  10  38  ~/maria/node3.cnf
-|4,53,10,38,1648295546,"~/maria/node3.cnf"
-'6  10  38  ~/maria/node3.cnf
-|4,54,10,38,1648295546,"~/maria/node3.cnf"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1652033552,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1652033529,"~/.git/COMMIT_EDITMSG"
+'2  9  0  ~/misc_app_tst/req_mac
+|4,50,9,0,1651405735,"~/misc_app_tst/req_mac"
+'3  11  0  ~/.ssh/authorized_keys
+|4,51,11,0,1649750313,"~/.ssh/authorized_keys"
+'4  14  25  ~/maria/node3.cnf
+|4,52,14,25,1648295666,"~/maria/node3.cnf"
+'5  7  10  ~/maria/node3.cnf
+|4,53,7,10,1648295635,"~/maria/node3.cnf"
+'6  7  10  ~/maria/node3.cnf
+|4,54,7,10,1648295635,"~/maria/node3.cnf"
 '7  10  38  ~/maria/node3.cnf
 |4,55,10,38,1648295546,"~/maria/node3.cnf"
 '8  10  38  ~/maria/node3.cnf
 |4,56,10,38,1648295546,"~/maria/node3.cnf"
-'9  17  46  ~/maria/node3.cnf
-|4,57,17,46,1648276973,"~/maria/node3.cnf"
+'9  10  38  ~/maria/node3.cnf
+|4,57,10,38,1648295546,"~/maria/node3.cnf"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1652033552,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1652033529,"~/.git/COMMIT_EDITMSG"
 -'  9  0  ~/misc_app_tst/req_mac
 |4,39,9,0,1651405735,"~/misc_app_tst/req_mac"
+-'  9  0  ~/misc_app_tst/req_mac
+|4,39,9,0,1651405735,"~/misc_app_tst/req_mac"
+-'  9  0  ~/misc_app_tst/req_mac
+|4,39,9,0,1651405735,"~/misc_app_tst/req_mac"
+-'  9  0  ~/misc_app_tst/req_mac
+|4,39,9,0,1651405735,"~/misc_app_tst/req_mac"
+-'  1  0  ~/misc_app_tst/req_mac
+|4,39,1,0,1651405730,"~/misc_app_tst/req_mac"
+-'  1  0  ~/misc_app_tst/req_mac
+|4,39,1,0,1651405730,"~/misc_app_tst/req_mac"
+-'  1  0  ~/misc_app_tst/req_mac
+|4,39,1,0,1651405730,"~/misc_app_tst/req_mac"
 -'  1  0  ~/misc_app_tst/req_mac
 |4,39,1,0,1651405730,"~/misc_app_tst/req_mac"
 -'  11  0  ~/.ssh/authorized_keys
 |4,39,11,0,1649750313,"~/.ssh/authorized_keys"
 -'  11  0  ~/.ssh/authorized_keys
 |4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  11  0  ~/.ssh/authorized_keys
+|4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  11  0  ~/.ssh/authorized_keys
+|4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  11  0  ~/.ssh/authorized_keys
+|4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  11  0  ~/.ssh/authorized_keys
+|4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  11  0  ~/.ssh/authorized_keys
+|4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  11  0  ~/.ssh/authorized_keys
+|4,39,11,0,1649750313,"~/.ssh/authorized_keys"
+-'  7  0  ~/.ssh/authorized_keys
+|4,39,7,0,1649750293,"~/.ssh/authorized_keys"
+-'  7  0  ~/.ssh/authorized_keys
+|4,39,7,0,1649750293,"~/.ssh/authorized_keys"
+-'  7  0  ~/.ssh/authorized_keys
+|4,39,7,0,1649750293,"~/.ssh/authorized_keys"
+-'  7  0  ~/.ssh/authorized_keys
+|4,39,7,0,1649750293,"~/.ssh/authorized_keys"
+-'  7  0  ~/.ssh/authorized_keys
+|4,39,7,0,1649750293,"~/.ssh/authorized_keys"
+-'  7  0  ~/.ssh/authorized_keys
+|4,39,7,0,1649750293,"~/.ssh/authorized_keys"
 -'  7  0  ~/.ssh/authorized_keys
 |4,39,7,0,1649750293,"~/.ssh/authorized_keys"
 -'  7  0  ~/.ssh/authorized_keys
@@ -69,6 +111,30 @@
 |4,39,14,25,1648295666,"~/maria/node3.cnf"
 -'  14  25  ~/maria/node3.cnf
 |4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
+-'  14  25  ~/maria/node3.cnf
+|4,39,14,25,1648295666,"~/maria/node3.cnf"
 -'  7  10  ~/maria/node3.cnf
 |4,39,7,10,1648295645,"~/maria/node3.cnf"
 -'  7  10  ~/maria/node3.cnf
@@ -77,6 +143,54 @@
 |4,39,7,10,1648295645,"~/maria/node3.cnf"
 -'  7  10  ~/maria/node3.cnf
 |4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295645,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
+-'  7  10  ~/maria/node3.cnf
+|4,39,7,10,1648295635,"~/maria/node3.cnf"
 -'  7  10  ~/maria/node3.cnf
 |4,39,7,10,1648295635,"~/maria/node3.cnf"
 -'  7  10  ~/maria/node3.cnf
@@ -102,155 +216,47 @@
 -'  10  38  ~/maria/node3.cnf
 |4,39,10,38,1648295619,"~/maria/node3.cnf"
 -'  10  38  ~/maria/node3.cnf
-|4,39,10,38,1648295546,"~/maria/node3.cnf"
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
 -'  10  38  ~/maria/node3.cnf
-|4,39,10,38,1648295546,"~/maria/node3.cnf"
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
 -'  10  38  ~/maria/node3.cnf
-|4,39,10,38,1648295546,"~/maria/node3.cnf"
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
 -'  10  38  ~/maria/node3.cnf
-|4,39,10,38,1648295546,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648295507,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648276973,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648276973,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648276973,"~/maria/node3.cnf"
--'  17  46  ~/maria/node3.cnf
-|4,39,17,46,1648276973,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  1  0  ~/maria/node3.cnf
-|4,39,1,0,1648276906,"~/maria/node3.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
--'  17  62  ~/maria/node1.cnf
-|4,39,17,62,1648270832,"~/maria/node1.cnf"
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
+-'  10  38  ~/maria/node3.cnf
+|4,39,10,38,1648295619,"~/maria/node3.cnf"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1652033551	0
+	"	1	0
 
 > ~/misc_app_tst/req_mac
 	*	1651405734	0

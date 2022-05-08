@@ -6,3 +6,5 @@
 .local
 .python_history
 .keyring_vault.conf
+mysql.sh
+.viminfo
