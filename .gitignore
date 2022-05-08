@@ -1,0 +1,8 @@
+.aws
+.ssh
+.mysql-keyring
+.cache
+.vscode-server
+.local
+.python_history
+.keyring_vault.conf
